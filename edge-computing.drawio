@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2020-01-13T07:01:16.711Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Safari/605.1.15" etag="bMHzXQTYGB0IDrOT3L-t" version="12.4.9" type="github">
+<mxfile host="www.draw.io" modified="2020-01-15T05:53:54.261Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Safari/605.1.15" etag="VAi06lD62kgBiGxmR_t7" version="12.4.9" type="github">
   <diagram id="ggnpdaRKlYyGPWBdo7Kn" name="Page-1">
     <mxGraphModel dx="1482" dy="986" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
       <root>
@@ -246,10 +246,10 @@
             <mxPoint x="739" y="189.07333333333327" as="targetPoint"/>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Am0BHRrdn-XoFu_V9a6s-90" value="ML Model &amp;nbsp;(e.g LSM)" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;strokeColor=#000000;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="Am0BHRrdn-XoFu_V9a6s-90" value="ML Model &amp;nbsp;(e.g LSTM)" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;strokeColor=#BD7000;fillColor=#f0a30a;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="455" y="153" width="204" height="77" as="geometry"/>
         </mxCell>
-        <mxCell id="Am0BHRrdn-XoFu_V9a6s-93" value="coming request" style="shape=tape;whiteSpace=wrap;html=1;shadow=0;strokeColor=#000000;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="Am0BHRrdn-XoFu_V9a6s-93" value="coming request" style="shape=tape;whiteSpace=wrap;html=1;shadow=0;strokeColor=#BD7000;fillColor=#f0a30a;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="736.5" y="144" width="124.5" height="91" as="geometry"/>
         </mxCell>
         <mxCell id="Am0BHRrdn-XoFu_V9a6s-98" value="" style="endArrow=classic;html=1;strokeColor=#6666FF;strokeWidth=2;" edge="1" parent="1">
@@ -264,10 +264,10 @@
             <mxPoint x="446.5" y="166" as="targetPoint"/>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Am0BHRrdn-XoFu_V9a6s-100" value="current request" style="shape=tape;whiteSpace=wrap;html=1;shadow=0;strokeColor=#000000;fillColor=none;rotation=-30;" vertex="1" parent="1">
+        <mxCell id="Am0BHRrdn-XoFu_V9a6s-100" value="current request" style="shape=tape;whiteSpace=wrap;html=1;shadow=0;strokeColor=#BD7000;fillColor=#f0a30a;rotation=-30;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="319" y="241" width="80.15" height="82" as="geometry"/>
         </mxCell>
-        <mxCell id="Am0BHRrdn-XoFu_V9a6s-101" value="other cluster request" style="shape=tape;whiteSpace=wrap;html=1;shadow=0;strokeColor=#000000;fillColor=none;rotation=15;direction=east;" vertex="1" parent="1">
+        <mxCell id="Am0BHRrdn-XoFu_V9a6s-101" value="&lt;font color=&quot;#ffffff&quot;&gt;other cluster request&lt;/font&gt;" style="shape=tape;whiteSpace=wrap;html=1;shadow=0;strokeColor=#000000;fillColor=#9999FF;rotation=15;direction=east;" vertex="1" parent="1">
           <mxGeometry x="309" y="90" width="80.15" height="82" as="geometry"/>
         </mxCell>
       </root>
