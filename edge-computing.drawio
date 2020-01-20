@@ -1,9 +1,15 @@
-<mxfile host="www.draw.io" modified="2020-01-20T06:23:39.958Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Safari/605.1.15" etag="uGjFK6JVeMVFs0VLv00i" version="12.5.5" type="github">
+<mxfile host="www.draw.io" modified="2020-01-20T07:14:51.425Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Safari/605.1.15" etag="nMSyB8vJyA-xabUD1j4k" version="12.5.5" type="github">
   <diagram id="ggnpdaRKlYyGPWBdo7Kn" name="Page-1">
     <mxGraphModel dx="1482" dy="4286" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
       <root>
         <mxCell id="0"/>
         <mxCell id="1" parent="0"/>
+        <mxCell id="APh3_wS82iULpDU1fa64-103" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="1060.1" y="8978" width="507.9" height="798" as="geometry"/>
+        </mxCell>
+        <mxCell id="APh3_wS82iULpDU1fa64-102" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;fillColor=#D5E8D4;" vertex="1" parent="1">
+          <mxGeometry x="805" y="8981" width="245" height="831" as="geometry"/>
+        </mxCell>
         <mxCell id="APh3_wS82iULpDU1fa64-2" value="" style="ellipse;whiteSpace=wrap;html=1;shadow=0;strokeColor=#000000;fillColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="258.5" y="5149" width="158" height="100" as="geometry"/>
         </mxCell>
@@ -944,8 +950,131 @@
         <mxCell id="APh3_wS82iULpDU1fa64-60" value="&lt;font style=&quot;font-size: 15px&quot;&gt;when scheduled retrain time comes&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="636.35" y="8477" width="133" height="51" as="geometry"/>
         </mxCell>
-        <mxCell id="APh3_wS82iULpDU1fa64-65" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="676" y="9351" width="176" height="73" as="geometry"/>
+        <mxCell id="APh3_wS82iULpDU1fa64-67" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="APh3_wS82iULpDU1fa64-65" target="APh3_wS82iULpDU1fa64-66">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="APh3_wS82iULpDU1fa64-65" value="&lt;font style=&quot;font-size: 15px&quot;&gt;When more than reserved resource is free&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="854.0600000000001" y="9076" width="145" height="59" as="geometry"/>
+        </mxCell>
+        <mxCell id="APh3_wS82iULpDU1fa64-90" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;strokeColor=#6666FF;" edge="1" parent="1" source="APh3_wS82iULpDU1fa64-66" target="APh3_wS82iULpDU1fa64-89">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="APh3_wS82iULpDU1fa64-91" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#000000;fontSize=15;" edge="1" parent="1" source="APh3_wS82iULpDU1fa64-66" target="APh3_wS82iULpDU1fa64-89">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="APh3_wS82iULpDU1fa64-66" value="&lt;div style=&quot;text-align: left&quot;&gt;&lt;font style=&quot;font-size: 15px&quot;&gt;broadcast task adoption request to neighbor cluster with its resource available capability&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="837.0600000000001" y="9182" width="179" height="106" as="geometry"/>
+        </mxCell>
+        <mxCell id="APh3_wS82iULpDU1fa64-93" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#000000;strokeWidth=1;fontSize=15;" edge="1" parent="1" source="APh3_wS82iULpDU1fa64-89" target="APh3_wS82iULpDU1fa64-92">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="APh3_wS82iULpDU1fa64-89" value="&lt;div style=&quot;text-align: left&quot;&gt;&lt;font style=&quot;font-size: 15px&quot;&gt;Sort scores of all neighbor clusters and accept the most top replies which local cluster can adopt&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="846.9200000000001" y="9351" width="159.29" height="107" as="geometry"/>
+        </mxCell>
+        <mxCell id="APh3_wS82iULpDU1fa64-92" value="&lt;div style=&quot;text-align: left ; font-size: 15px&quot;&gt;&lt;font style=&quot;font-size: 15px&quot;&gt;send task adoption ack message to corresponding clusters with task info&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="810.85" y="9533" width="232.5" height="66" as="geometry"/>
+        </mxCell>
+        <mxCell id="APh3_wS82iULpDU1fa64-98" value="&lt;div style=&quot;text-align: left ; font-size: 15px&quot;&gt;&lt;font style=&quot;font-size: 15px&quot;&gt;get task and run&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="810.32" y="9724" width="232.5" height="66" as="geometry"/>
+        </mxCell>
+        <mxCell id="APh3_wS82iULpDU1fa64-95" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#000000;strokeWidth=1;fontSize=15;" edge="1" parent="1" source="APh3_wS82iULpDU1fa64-68" target="APh3_wS82iULpDU1fa64-71">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="APh3_wS82iULpDU1fa64-68" value="&lt;font style=&quot;font-size: 16px&quot;&gt;Receive task&lt;span style=&quot;text-align: left&quot;&gt;&amp;nbsp;adoption request&lt;/span&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=8;" vertex="1" parent="1">
+          <mxGeometry x="1192.35" y="9032" width="168" height="58" as="geometry"/>
+        </mxCell>
+        <mxCell id="APh3_wS82iULpDU1fa64-73" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="APh3_wS82iULpDU1fa64-71">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1145.35" y="9243" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="APh3_wS82iULpDU1fa64-75" value="No" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=#ffffff;fontSize=15;" vertex="1" connectable="0" parent="APh3_wS82iULpDU1fa64-73">
+          <mxGeometry x="-0.1328" y="6" relative="1" as="geometry">
+            <mxPoint as="offset"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="APh3_wS82iULpDU1fa64-77" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="APh3_wS82iULpDU1fa64-71">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1449.35" y="9244" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="APh3_wS82iULpDU1fa64-79" value="&lt;font style=&quot;font-size: 15px&quot;&gt;Yes&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=#ffffff;" vertex="1" connectable="0" parent="APh3_wS82iULpDU1fa64-77">
+          <mxGeometry x="-0.1818" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="APh3_wS82iULpDU1fa64-71" value="&lt;font style=&quot;font-size: 15px&quot;&gt;Need transfer task to other cluster based on local cluster policy?&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1170.35" y="9135" width="211" height="105" as="geometry"/>
+        </mxCell>
+        <mxCell id="APh3_wS82iULpDU1fa64-81" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="APh3_wS82iULpDU1fa64-74" target="APh3_wS82iULpDU1fa64-80">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="APh3_wS82iULpDU1fa64-74" value="&lt;font style=&quot;font-size: 16px&quot;&gt;Task Offer score 0&amp;nbsp;&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=8;" vertex="1" parent="1">
+          <mxGeometry x="1060.1" y="9244" width="166.25" height="41" as="geometry"/>
+        </mxCell>
+        <mxCell id="APh3_wS82iULpDU1fa64-80" value="&lt;font style=&quot;font-size: 16px&quot;&gt;Return tasks list and score&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=8;" vertex="1" parent="1">
+          <mxGeometry x="1226.35" y="9432" width="166.25" height="41" as="geometry"/>
+        </mxCell>
+        <mxCell id="APh3_wS82iULpDU1fa64-83" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.644;entryY=0.024;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="APh3_wS82iULpDU1fa64-78" target="APh3_wS82iULpDU1fa64-80">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1448.6" y="9414" as="targetPoint"/>
+            <Array as="points">
+              <mxPoint x="1448.35" y="9360"/>
+              <mxPoint x="1333.35" y="9360"/>
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="APh3_wS82iULpDU1fa64-78" value="&lt;font style=&quot;font-size: 16px&quot;&gt;Pick up local task which target cluster resource can cover replay should also includes a score based on local cluster policy&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=8;" vertex="1" parent="1">
+          <mxGeometry x="1321" y="9244" width="238" height="79" as="geometry"/>
+        </mxCell>
+        <mxCell id="APh3_wS82iULpDU1fa64-84" value="&lt;b&gt;&lt;font style=&quot;font-size: 17px&quot;&gt;Edge Cluster A&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="854.0600000000001" y="9000" width="149" height="32" as="geometry"/>
+        </mxCell>
+        <mxCell id="APh3_wS82iULpDU1fa64-85" value="&lt;b&gt;&lt;font style=&quot;font-size: 17px&quot;&gt;Edge Cluster B&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1239.55" y="8981" width="149" height="32" as="geometry"/>
+        </mxCell>
+        <mxCell id="APh3_wS82iULpDU1fa64-86" value="" style="curved=1;endArrow=classic;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;dashed=1;strokeColor=#6666FF;strokeWidth=2;" edge="1" parent="1" target="APh3_wS82iULpDU1fa64-68">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1016.7" y="9197" as="sourcePoint"/>
+            <mxPoint x="1066.7" y="9147" as="targetPoint"/>
+            <Array as="points">
+              <mxPoint x="1016.7" y="9147"/>
+              <mxPoint x="1038.35" y="9039"/>
+              <mxPoint x="1075.35" y="8987"/>
+              <mxPoint x="1175.35" y="8963"/>
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="APh3_wS82iULpDU1fa64-88" value="" style="curved=1;endArrow=classic;html=1;dashed=1;strokeColor=#6666FF;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeWidth=2;" edge="1" parent="1" source="APh3_wS82iULpDU1fa64-80">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1315.35" y="9478" as="sourcePoint"/>
+            <mxPoint x="1001.35" y="9289" as="targetPoint"/>
+            <Array as="points">
+              <mxPoint x="1162.35" y="9486"/>
+              <mxPoint x="1062.35" y="9447"/>
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="APh3_wS82iULpDU1fa64-97" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#000000;strokeWidth=1;fontSize=15;" edge="1" parent="1" source="APh3_wS82iULpDU1fa64-94" target="APh3_wS82iULpDU1fa64-96">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="APh3_wS82iULpDU1fa64-94" value="&lt;div style=&quot;text-align: left ; font-size: 15px&quot;&gt;&lt;font style=&quot;font-size: 15px&quot;&gt;get task adoption ack msg&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1188.97" y="9619" width="241" height="39" as="geometry"/>
+        </mxCell>
+        <mxCell id="APh3_wS82iULpDU1fa64-96" value="&lt;div style=&quot;text-align: left ; font-size: 15px&quot;&gt;&lt;font style=&quot;font-size: 15px&quot;&gt;send related task transfer request to corresponding cluster&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1188.97" y="9698" width="241" height="39" as="geometry"/>
+        </mxCell>
+        <mxCell id="APh3_wS82iULpDU1fa64-100" value="" style="endArrow=classic;html=1;strokeColor=#6666FF;strokeWidth=2;fontSize=15;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;dashed=1;" edge="1" parent="1" source="APh3_wS82iULpDU1fa64-92" target="APh3_wS82iULpDU1fa64-94">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="170" y="9851" as="sourcePoint"/>
+            <mxPoint x="220" y="9801" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="APh3_wS82iULpDU1fa64-101" value="" style="endArrow=classic;html=1;dashed=1;strokeColor=#6666FF;strokeWidth=2;fontSize=15;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="APh3_wS82iULpDU1fa64-96" target="APh3_wS82iULpDU1fa64-98">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="170" y="9851" as="sourcePoint"/>
+            <mxPoint x="220" y="9801" as="targetPoint"/>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
