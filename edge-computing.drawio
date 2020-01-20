@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2020-01-20T05:56:03.104Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Safari/605.1.15" etag="Za1OYuu88hYXyQAxxhRs" version="12.5.5" type="github">
+<mxfile host="www.draw.io" modified="2020-01-20T06:00:04.298Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Safari/605.1.15" etag="JNYnzZUwngSiD8MG7TOC" version="12.5.5" type="github">
   <diagram id="ggnpdaRKlYyGPWBdo7Kn" name="Page-1">
     <mxGraphModel dx="1482" dy="4286" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
       <root>
@@ -884,20 +884,17 @@
         <mxCell id="APh3_wS82iULpDU1fa64-42" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/summer-time-element-vol-1/512/3-128.png" vertex="1" parent="1">
           <mxGeometry x="1115.2" y="5084" width="68" height="68" as="geometry"/>
         </mxCell>
-        <mxCell id="APh3_wS82iULpDU1fa64-45" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="APh3_wS82iULpDU1fa64-43" target="APh3_wS82iULpDU1fa64-44">
-          <mxGeometry relative="1" as="geometry"/>
-        </mxCell>
-        <mxCell id="APh3_wS82iULpDU1fa64-46" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="APh3_wS82iULpDU1fa64-43" target="APh3_wS82iULpDU1fa64-44">
+        <mxCell id="APh3_wS82iULpDU1fa64-64" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="APh3_wS82iULpDU1fa64-43" target="APh3_wS82iULpDU1fa64-44">
           <mxGeometry relative="1" as="geometry"/>
         </mxCell>
         <mxCell id="APh3_wS82iULpDU1fa64-43" value="&lt;font style=&quot;font-size: 15px&quot;&gt;when need reclaim&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="515" y="8492" width="133" height="36" as="geometry"/>
+          <mxGeometry x="411" y="8477" width="133" height="51" as="geometry"/>
         </mxCell>
-        <mxCell id="APh3_wS82iULpDU1fa64-48" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="APh3_wS82iULpDU1fa64-44" target="APh3_wS82iULpDU1fa64-47">
+        <mxCell id="APh3_wS82iULpDU1fa64-48" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="APh3_wS82iULpDU1fa64-44" target="APh3_wS82iULpDU1fa64-47">
           <mxGeometry relative="1" as="geometry"/>
         </mxCell>
         <mxCell id="APh3_wS82iULpDU1fa64-44" value="&lt;font style=&quot;font-size: 15px&quot;&gt;re-configure a bigger reserved buffer&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="522.35" y="8572" width="120" height="60" as="geometry"/>
+          <mxGeometry x="418" y="8592" width="120" height="60" as="geometry"/>
         </mxCell>
         <mxCell id="APh3_wS82iULpDU1fa64-50" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="APh3_wS82iULpDU1fa64-47">
           <mxGeometry relative="1" as="geometry">
@@ -930,7 +927,7 @@
             <mxPoint as="offset"/>
           </mxGeometry>
         </mxCell>
-        <mxCell id="APh3_wS82iULpDU1fa64-51" value="&lt;span style=&quot;white-space: normal ; color: rgb(67 , 67 , 67) ; font-family: &amp;#34;arial&amp;#34; , sans-serif ; font-size: 14px ; background-color: rgb(252 , 252 , 254)&quot;&gt;accuracy improved?&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="APh3_wS82iULpDU1fa64-51" value="&lt;span style=&quot;white-space: normal ; color: rgb(67 , 67 , 67) ; font-family: &amp;#34;arial&amp;#34; , sans-serif ; background-color: rgb(252 , 252 , 254)&quot;&gt;&lt;font style=&quot;font-size: 15px&quot;&gt;accuracy improved?&lt;/font&gt;&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="520.85" y="8783" width="123" height="80" as="geometry"/>
         </mxCell>
         <mxCell id="APh3_wS82iULpDU1fa64-54" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -938,6 +935,14 @@
         </mxCell>
         <mxCell id="APh3_wS82iULpDU1fa64-55" value="&lt;font style=&quot;font-size: 15px&quot;&gt;re-deploy new model and re-configure a new smaller buffer&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="625.85" y="8875" width="142" height="74" as="geometry"/>
+        </mxCell>
+        <mxCell id="APh3_wS82iULpDU1fa64-62" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="APh3_wS82iULpDU1fa64-60" target="APh3_wS82iULpDU1fa64-47">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="725.5" y="8608" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="APh3_wS82iULpDU1fa64-60" value="&lt;font style=&quot;font-size: 15px&quot;&gt;when scheduled retrain time comes&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="636.35" y="8477" width="133" height="51" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
