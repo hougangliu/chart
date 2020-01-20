@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2020-01-20T01:12:34.500Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Safari/605.1.15" etag="DA46c2VfTtubhJFB35f5" version="12.5.5" type="github">
+<mxfile host="www.draw.io" modified="2020-01-20T01:38:54.972Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Safari/605.1.15" etag="e_pR5eWLaQn1aZIaV0py" version="12.5.5" type="github">
   <diagram id="ggnpdaRKlYyGPWBdo7Kn" name="Page-1">
     <mxGraphModel dx="1482" dy="4286" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
       <root>
@@ -766,6 +766,126 @@
             <mxPoint x="751.5000000000003" y="5317" as="sourcePoint"/>
             <mxPoint x="668.5000000000003" y="5317" as="targetPoint"/>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="APh3_wS82iULpDU1fa64-8" value="" style="ellipse;whiteSpace=wrap;html=1;shadow=0;strokeColor=#000000;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="924.5" y="5149" width="158" height="100" as="geometry"/>
+        </mxCell>
+        <mxCell id="APh3_wS82iULpDU1fa64-9" value="" style="ellipse;whiteSpace=wrap;html=1;shadow=0;strokeColor=#000000;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="980.2" y="5260" width="158" height="100" as="geometry"/>
+        </mxCell>
+        <mxCell id="APh3_wS82iULpDU1fa64-10" value="" style="ellipse;whiteSpace=wrap;html=1;shadow=0;strokeColor=#000000;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="1175" y="5265" width="158" height="100" as="geometry"/>
+        </mxCell>
+        <mxCell id="APh3_wS82iULpDU1fa64-11" value="" style="ellipse;whiteSpace=wrap;html=1;shadow=0;strokeColor=#000000;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="1216.21" y="5139" width="158" height="100" as="geometry"/>
+        </mxCell>
+        <mxCell id="APh3_wS82iULpDU1fa64-12" value="" style="ellipse;whiteSpace=wrap;html=1;shadow=0;strokeColor=#000000;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="1068.5" y="5065" width="158" height="100" as="geometry"/>
+        </mxCell>
+        <mxCell id="APh3_wS82iULpDU1fa64-13" value="" style="shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#4495D1;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam.building;" vertex="1" parent="1">
+          <mxGeometry x="1010.7" y="5275" width="54.15" height="70" as="geometry"/>
+        </mxCell>
+        <mxCell id="APh3_wS82iULpDU1fa64-15" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/emergency-outline/439/tsunami_water_disaster_earthquake_sea_wave_destruction_danger_nature_storm_flood-128.png;shadow=0;strokeColor=#000000;fillColor=#9999FF;" vertex="1" parent="1">
+          <mxGeometry x="1264.21" y="5156" width="66" height="66" as="geometry"/>
+        </mxCell>
+        <mxCell id="APh3_wS82iULpDU1fa64-17" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/aiga-symbol-signs/566/aiga_groundtransportion-128.png;shadow=0;strokeColor=#000000;fillColor=#9999FF;" vertex="1" parent="1">
+          <mxGeometry x="1194.15" y="5268" width="84" height="84" as="geometry"/>
+        </mxCell>
+        <mxCell id="APh3_wS82iULpDU1fa64-19" value="" style="shape=arrow;endArrow=classic;html=1;strokeColor=#6666FF;strokeWidth=2;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1129.93" y="4989" as="sourcePoint"/>
+            <mxPoint x="1129.93" y="5063" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="APh3_wS82iULpDU1fa64-20" value="" style="shape=arrow;endArrow=classic;html=1;strokeColor=#6666FF;strokeWidth=2;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1161.78" y="4989" as="sourcePoint"/>
+            <mxPoint x="1161.78" y="5063" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="APh3_wS82iULpDU1fa64-23" value="" style="shape=arrow;endArrow=classic;html=1;strokeColor=#6666FF;strokeWidth=2;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="909.85" y="5296" as="sourcePoint"/>
+            <mxPoint x="980.3499999999921" y="5296" as="targetPoint"/>
+            <Array as="points">
+              <mxPoint x="928.85" y="5283"/>
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="APh3_wS82iULpDU1fa64-25" value="" style="shape=flexArrow;endArrow=classic;html=1;strokeColor=#6666FF;strokeWidth=2;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1455.69" y="5191" as="sourcePoint"/>
+            <mxPoint x="1372.69" y="5191" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="APh3_wS82iULpDU1fa64-27" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/pittogrammi/142/46-128.png" vertex="1" parent="1">
+          <mxGeometry x="962.8" y="5165" width="55.5" height="55.5" as="geometry"/>
+        </mxCell>
+        <mxCell id="APh3_wS82iULpDU1fa64-28" value="" style="shape=arrow;endArrow=classic;html=1;strokeColor=#6666FF;strokeWidth=2;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="854" y="5199.25" as="sourcePoint"/>
+            <mxPoint x="924.5" y="5199.25" as="targetPoint"/>
+            <Array as="points">
+              <mxPoint x="873" y="5186.25"/>
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="APh3_wS82iULpDU1fa64-29" value="" style="shape=flexArrow;endArrow=classic;html=1;strokeColor=#6666FF;strokeWidth=2;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1417.5000000000005" y="5317" as="sourcePoint"/>
+            <mxPoint x="1334.5000000000005" y="5317" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="APh3_wS82iULpDU1fa64-31" value="" style="shape=arrow;endArrow=classic;html=1;strokeColor=#6666FF;strokeWidth=2;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="854" y="5168" as="sourcePoint"/>
+            <mxPoint x="924.5" y="5168" as="targetPoint"/>
+            <Array as="points">
+              <mxPoint x="873" y="5155"/>
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="APh3_wS82iULpDU1fa64-32" value="" style="shape=arrow;endArrow=classic;html=1;strokeColor=#6666FF;strokeWidth=2;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="854" y="5229" as="sourcePoint"/>
+            <mxPoint x="924.5" y="5229" as="targetPoint"/>
+            <Array as="points">
+              <mxPoint x="873" y="5216"/>
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="APh3_wS82iULpDU1fa64-34" value="" style="shape=flexArrow;endArrow=classic;html=1;strokeColor=#6666FF;strokeWidth=2;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1418.0000000000005" y="5351" as="sourcePoint"/>
+            <mxPoint x="1335.0000000000005" y="5351" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="APh3_wS82iULpDU1fa64-35" value="" style="shape=flexArrow;endArrow=classic;html=1;strokeColor=#6666FF;strokeWidth=2;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1417.0000000000005" y="5284" as="sourcePoint"/>
+            <mxPoint x="1334.0000000000005" y="5284" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="APh3_wS82iULpDU1fa64-36" value="" style="shape=arrow;endArrow=classic;html=1;strokeColor=#6666FF;strokeWidth=2;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="909.8499999999998" y="5327" as="sourcePoint"/>
+            <mxPoint x="980.3499999999921" y="5327" as="targetPoint"/>
+            <Array as="points">
+              <mxPoint x="928.85" y="5314"/>
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="APh3_wS82iULpDU1fa64-39" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/internet-connection-1/100/people-128.png" vertex="1" parent="1">
+          <mxGeometry x="170" y="7615" width="54" height="54" as="geometry"/>
+        </mxCell>
+        <mxCell id="APh3_wS82iULpDU1fa64-40" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/internet-connection-1/100/people-128.png" vertex="1" parent="1">
+          <mxGeometry x="1068.5" y="5291" width="54" height="54" as="geometry"/>
+        </mxCell>
+        <mxCell id="APh3_wS82iULpDU1fa64-41" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/analytic-investment-and-balanced-scorecard/512/41_Fire_Fire_Place_Canada-128.png" vertex="1" parent="1">
+          <mxGeometry x="1030" y="5180" width="34.1" height="34.1" as="geometry"/>
+        </mxCell>
+        <mxCell id="APh3_wS82iULpDU1fa64-42" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/summer-time-element-vol-1/512/3-128.png" vertex="1" parent="1">
+          <mxGeometry x="1115.2" y="5084" width="68" height="68" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
