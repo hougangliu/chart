@@ -1,11 +1,14 @@
-<mxfile host="app.diagrams.net" modified="2020-04-17T01:42:05.344Z" agent="5.0 (Windows)" etag="W1lG_pc9v1eKs7-4yPdp" version="12.9.14" type="github">
+<mxfile host="app.diagrams.net" modified="2020-04-17T01:44:14.558Z" agent="5.0 (Windows)" etag="0eZjNad8yRcRa7vXH2Lp" version="12.9.14" type="github">
   <diagram id="rHfUqTyXawN6dN342Y3W" name="Page-1">
     <mxGraphModel dx="1422" dy="769" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="Eag-7cNZlm_eQsqt_p49-1" value="" style="shape=umlLifeline;participant=umlEntity;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;verticalAlign=top;spacingTop=36;labelBackgroundColor=#ffffff;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="394" y="1170" width="40" height="700" as="geometry" />
+        <mxCell id="Eag-7cNZlm_eQsqt_p49-25" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="230" y="280" width="1040" height="1590" as="geometry" />
+        </mxCell>
+        <mxCell id="Eag-7cNZlm_eQsqt_p49-1" value="" style="shape=umlLifeline;participant=umlEntity;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;verticalAlign=top;spacingTop=36;labelBackgroundColor=#ffffff;outlineConnect=0;" vertex="1" parent="Eag-7cNZlm_eQsqt_p49-25">
+          <mxGeometry x="164" y="890" width="40" height="700" as="geometry" />
         </mxCell>
         <mxCell id="Eag-7cNZlm_eQsqt_p49-2" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="Eag-7cNZlm_eQsqt_p49-1">
           <mxGeometry x="20" y="90" width="10" height="80" as="geometry" />
@@ -13,8 +16,8 @@
         <mxCell id="Eag-7cNZlm_eQsqt_p49-3" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="Eag-7cNZlm_eQsqt_p49-1">
           <mxGeometry x="20" y="560" width="10" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="G0uET5Q_VYbNLyBC4Jm4-1" value="" style="shape=umlLifeline;participant=umlEntity;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;verticalAlign=top;spacingTop=36;labelBackgroundColor=#ffffff;outlineConnect=0;" parent="1" vertex="1">
-          <mxGeometry x="420" y="280" width="40" height="700" as="geometry" />
+        <mxCell id="G0uET5Q_VYbNLyBC4Jm4-1" value="" style="shape=umlLifeline;participant=umlEntity;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;verticalAlign=top;spacingTop=36;labelBackgroundColor=#ffffff;outlineConnect=0;" parent="Eag-7cNZlm_eQsqt_p49-25" vertex="1">
+          <mxGeometry x="190" width="40" height="700" as="geometry" />
         </mxCell>
         <mxCell id="G0uET5Q_VYbNLyBC4Jm4-9" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" parent="G0uET5Q_VYbNLyBC4Jm4-1" vertex="1">
           <mxGeometry x="20" y="90" width="10" height="80" as="geometry" />
@@ -22,127 +25,157 @@
         <mxCell id="xEUIFX-Q6s_xrWAQr0Mz-3" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" parent="G0uET5Q_VYbNLyBC4Jm4-1" vertex="1">
           <mxGeometry x="20" y="560" width="10" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="G0uET5Q_VYbNLyBC4Jm4-3" value="" style="shape=umlLifeline;participant=umlEntity;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;verticalAlign=top;spacingTop=36;labelBackgroundColor=#ffffff;outlineConnect=0;" parent="1" vertex="1">
-          <mxGeometry x="980" y="280" width="40" height="620" as="geometry" />
+        <mxCell id="G0uET5Q_VYbNLyBC4Jm4-3" value="" style="shape=umlLifeline;participant=umlEntity;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;verticalAlign=top;spacingTop=36;labelBackgroundColor=#ffffff;outlineConnect=0;" parent="Eag-7cNZlm_eQsqt_p49-25" vertex="1">
+          <mxGeometry x="750" width="40" height="620" as="geometry" />
         </mxCell>
         <mxCell id="G0uET5Q_VYbNLyBC4Jm4-15" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" parent="G0uET5Q_VYbNLyBC4Jm4-3" vertex="1">
           <mxGeometry x="15" y="360" width="10" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="Eag-7cNZlm_eQsqt_p49-4" value="" style="shape=umlLifeline;participant=umlEntity;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;verticalAlign=top;spacingTop=36;labelBackgroundColor=#ffffff;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="954" y="1170" width="40" height="620" as="geometry" />
+        <mxCell id="Eag-7cNZlm_eQsqt_p49-4" value="" style="shape=umlLifeline;participant=umlEntity;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;verticalAlign=top;spacingTop=36;labelBackgroundColor=#ffffff;outlineConnect=0;" vertex="1" parent="Eag-7cNZlm_eQsqt_p49-25">
+          <mxGeometry x="724" y="890" width="40" height="620" as="geometry" />
         </mxCell>
         <mxCell id="Eag-7cNZlm_eQsqt_p49-5" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="Eag-7cNZlm_eQsqt_p49-4">
           <mxGeometry x="15" y="360" width="10" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="G0uET5Q_VYbNLyBC4Jm4-4" value="" style="shape=umlLifeline;participant=umlEntity;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;verticalAlign=top;spacingTop=36;labelBackgroundColor=#ffffff;outlineConnect=0;" parent="1" vertex="1">
-          <mxGeometry x="615" y="280" width="40" height="620" as="geometry" />
+        <mxCell id="G0uET5Q_VYbNLyBC4Jm4-4" value="" style="shape=umlLifeline;participant=umlEntity;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;verticalAlign=top;spacingTop=36;labelBackgroundColor=#ffffff;outlineConnect=0;" parent="Eag-7cNZlm_eQsqt_p49-25" vertex="1">
+          <mxGeometry x="385" width="40" height="620" as="geometry" />
         </mxCell>
         <mxCell id="G0uET5Q_VYbNLyBC4Jm4-10" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" parent="G0uET5Q_VYbNLyBC4Jm4-4" vertex="1">
           <mxGeometry x="15" y="190" width="10" height="360" as="geometry" />
         </mxCell>
-        <mxCell id="Eag-7cNZlm_eQsqt_p49-6" value="" style="shape=umlLifeline;participant=umlEntity;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;verticalAlign=top;spacingTop=36;labelBackgroundColor=#ffffff;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="589" y="1170" width="40" height="620" as="geometry" />
+        <mxCell id="Eag-7cNZlm_eQsqt_p49-6" value="" style="shape=umlLifeline;participant=umlEntity;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;verticalAlign=top;spacingTop=36;labelBackgroundColor=#ffffff;outlineConnect=0;" vertex="1" parent="Eag-7cNZlm_eQsqt_p49-25">
+          <mxGeometry x="359" y="890" width="40" height="620" as="geometry" />
         </mxCell>
         <mxCell id="Eag-7cNZlm_eQsqt_p49-7" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="Eag-7cNZlm_eQsqt_p49-6">
           <mxGeometry x="15" y="190" width="10" height="360" as="geometry" />
         </mxCell>
-        <mxCell id="G0uET5Q_VYbNLyBC4Jm4-8" value="编辑notebook代码后 点击远程执行 弹出对话框 用户指定：&lt;br&gt;1. data url及对应的local path&lt;br&gt;2. 需要输出的local path&lt;br&gt;3. 计算资源规格" style="shape=note;whiteSpace=wrap;html=1;size=14;verticalAlign=top;align=left;spacingTop=-6;" parent="1" vertex="1">
-          <mxGeometry x="290" y="360" width="140" height="110" as="geometry" />
+        <mxCell id="G0uET5Q_VYbNLyBC4Jm4-8" value="编辑notebook代码后 点击远程执行 弹出对话框 用户指定：&lt;br&gt;1. data url及对应的local path&lt;br&gt;2. 需要输出的local path&lt;br&gt;3. 计算资源规格" style="shape=note;whiteSpace=wrap;html=1;size=14;verticalAlign=top;align=left;spacingTop=-6;" parent="Eag-7cNZlm_eQsqt_p49-25" vertex="1">
+          <mxGeometry x="60" y="80" width="140" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="Eag-7cNZlm_eQsqt_p49-8" value="编辑notebook代码后 点击远程执行 弹出对话框 用户指定：&lt;br&gt;1. 计算资源规格" style="shape=note;whiteSpace=wrap;html=1;size=14;verticalAlign=top;align=left;spacingTop=-6;" vertex="1" parent="1">
-          <mxGeometry x="264" y="1250" width="146" height="70" as="geometry" />
+        <mxCell id="Eag-7cNZlm_eQsqt_p49-8" value="编辑notebook代码后 点击远程执行 弹出对话框 用户指定：&lt;br&gt;1. 计算资源规格" style="shape=note;whiteSpace=wrap;html=1;size=14;verticalAlign=top;align=left;spacingTop=-6;" vertex="1" parent="Eag-7cNZlm_eQsqt_p49-25">
+          <mxGeometry x="34" y="970" width="146" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="Eag-7cNZlm_eQsqt_p49-9" value="1.转换ipynb文件成py文件，放在挂载目录&lt;br&gt;2.将新生成的pip安装存入requirements.txt，放在挂载目录&lt;br&gt;3.组装训练job的request body: 计算规格，配置自定义镜像, 自定义命令run_train.sh(py文件为其参数)，&lt;font color=&quot;#FF3333&quot;&gt;&lt;b&gt;挂载盘及mountPath &lt;/b&gt;&lt;/font&gt;等等；&lt;br&gt;4.调用训练任务API创建任务" style="shape=note;whiteSpace=wrap;html=1;size=14;verticalAlign=top;align=left;spacingTop=-6;" vertex="1" parent="1">
-          <mxGeometry x="644" y="1370" width="200" height="160" as="geometry" />
+        <mxCell id="Eag-7cNZlm_eQsqt_p49-9" value="1.转换ipynb文件成py文件，放在挂载目录&lt;br&gt;2.将新生成的pip安装存入requirements.txt，放在挂载目录&lt;br&gt;3.组装训练job的request body: 计算规格，配置自定义镜像, 自定义命令run_train.sh(py文件为其参数)，&lt;font color=&quot;#FF3333&quot;&gt;&lt;b&gt;挂载盘及mountPath &lt;/b&gt;&lt;/font&gt;等等；&lt;br&gt;4.调用训练任务API创建任务" style="shape=note;whiteSpace=wrap;html=1;size=14;verticalAlign=top;align=left;spacingTop=-6;" vertex="1" parent="Eag-7cNZlm_eQsqt_p49-25">
+          <mxGeometry x="414" y="1090" width="200" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="Eag-7cNZlm_eQsqt_p49-10" value="在新的cell基于restore的session 进行模型验证/推理" style="shape=note;whiteSpace=wrap;html=1;size=14;verticalAlign=top;align=left;spacingTop=-6;" vertex="1" parent="1">
-          <mxGeometry x="259" y="1740" width="150" height="50" as="geometry" />
+        <mxCell id="Eag-7cNZlm_eQsqt_p49-10" value="在新的cell基于restore的session 进行模型验证/推理" style="shape=note;whiteSpace=wrap;html=1;size=14;verticalAlign=top;align=left;spacingTop=-6;" vertex="1" parent="Eag-7cNZlm_eQsqt_p49-25">
+          <mxGeometry x="29" y="1460" width="150" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="Eag-7cNZlm_eQsqt_p49-11" value="1. pip install -r requirement.txt&lt;div&gt;2. 执行训练code&lt;/div&gt;" style="shape=note;whiteSpace=wrap;html=1;size=14;verticalAlign=top;align=left;spacingTop=-6;" vertex="1" parent="1">
-          <mxGeometry x="1004" y="1540" width="246" height="40" as="geometry" />
+        <mxCell id="Eag-7cNZlm_eQsqt_p49-11" value="1. pip install -r requirement.txt&lt;div&gt;2. 执行训练code&lt;/div&gt;" style="shape=note;whiteSpace=wrap;html=1;size=14;verticalAlign=top;align=left;spacingTop=-6;" vertex="1" parent="Eag-7cNZlm_eQsqt_p49-25">
+          <mxGeometry x="774" y="1260" width="246" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Eag-7cNZlm_eQsqt_p49-12" value="&lt;div&gt;6. session restore&lt;br&gt;&lt;/div&gt;" style="shape=note;whiteSpace=wrap;html=1;size=14;verticalAlign=top;align=left;spacingTop=-6;" vertex="1" parent="1">
-          <mxGeometry x="644" y="1670" width="200" height="50" as="geometry" />
+        <mxCell id="Eag-7cNZlm_eQsqt_p49-12" value="&lt;div&gt;6. session restore&lt;br&gt;&lt;/div&gt;" style="shape=note;whiteSpace=wrap;html=1;size=14;verticalAlign=top;align=left;spacingTop=-6;" vertex="1" parent="Eag-7cNZlm_eQsqt_p49-25">
+          <mxGeometry x="414" y="1390" width="200" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="Eag-7cNZlm_eQsqt_p49-13" value="5 持续watch训练任务直到等待终态，并持续向前台返回log（可对log进行过滤装饰）" style="shape=note;whiteSpace=wrap;html=1;size=14;verticalAlign=top;align=left;spacingTop=-6;" vertex="1" parent="1">
-          <mxGeometry x="644" y="1560" width="200" height="50" as="geometry" />
+        <mxCell id="Eag-7cNZlm_eQsqt_p49-13" value="5 持续watch训练任务直到等待终态，并持续向前台返回log（可对log进行过滤装饰）" style="shape=note;whiteSpace=wrap;html=1;size=14;verticalAlign=top;align=left;spacingTop=-6;" vertex="1" parent="Eag-7cNZlm_eQsqt_p49-25">
+          <mxGeometry x="414" y="1280" width="200" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="Eag-7cNZlm_eQsqt_p49-14" value="jupyterlab" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="344" y="1180" width="40" height="20" as="geometry" />
+        <mxCell id="Eag-7cNZlm_eQsqt_p49-14" value="jupyterlab" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="Eag-7cNZlm_eQsqt_p49-25">
+          <mxGeometry x="114" y="900" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="Eag-7cNZlm_eQsqt_p49-15" value="kernel" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="534" y="1180" width="40" height="20" as="geometry" />
+        <mxCell id="Eag-7cNZlm_eQsqt_p49-15" value="kernel" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="Eag-7cNZlm_eQsqt_p49-25">
+          <mxGeometry x="304" y="900" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="Eag-7cNZlm_eQsqt_p49-16" value="训练job" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="894" y="1180" width="40" height="20" as="geometry" />
+        <mxCell id="Eag-7cNZlm_eQsqt_p49-16" value="训练job" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="Eag-7cNZlm_eQsqt_p49-25">
+          <mxGeometry x="664" y="900" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="Eag-7cNZlm_eQsqt_p49-17" value="也可以一次设定，以避免每次执行都弹出对话框" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
-          <mxGeometry x="230" y="1428" width="147" height="104" as="geometry" />
+        <mxCell id="Eag-7cNZlm_eQsqt_p49-17" value="也可以一次设定，以避免每次执行都弹出对话框" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="Eag-7cNZlm_eQsqt_p49-25">
+          <mxGeometry y="1148" width="147" height="104" as="geometry" />
         </mxCell>
-        <mxCell id="Eag-7cNZlm_eQsqt_p49-18" value="" style="curved=1;endArrow=classic;html=1;entryX=0.531;entryY=0.087;entryDx=0;entryDy=0;entryPerimeter=0;fillColor=#f5f5f5;strokeColor=#666666;dashed=1;exitX=0.418;exitY=1.043;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" target="Eag-7cNZlm_eQsqt_p49-17" source="Eag-7cNZlm_eQsqt_p49-8">
+        <mxCell id="Eag-7cNZlm_eQsqt_p49-18" value="" style="curved=1;endArrow=classic;html=1;entryX=0.531;entryY=0.087;entryDx=0;entryDy=0;entryPerimeter=0;fillColor=#f5f5f5;strokeColor=#666666;dashed=1;exitX=0.418;exitY=1.043;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="Eag-7cNZlm_eQsqt_p49-25" target="Eag-7cNZlm_eQsqt_p49-17" source="Eag-7cNZlm_eQsqt_p49-8">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="300" y="1362" as="sourcePoint" />
-            <mxPoint x="377" y="1389" as="targetPoint" />
+            <mxPoint x="70" y="1082" as="sourcePoint" />
+            <mxPoint x="147" y="1109" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="291" y="1399" />
-              <mxPoint x="327" y="1389" />
+              <mxPoint x="61" y="1119" />
+              <mxPoint x="97" y="1109" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Eag-7cNZlm_eQsqt_p49-19" value="&lt;b&gt;comand：run_train.sh&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1049" y="1516" width="40" height="20" as="geometry" />
+        <mxCell id="Eag-7cNZlm_eQsqt_p49-19" value="&lt;b&gt;comand：run_train.sh&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="Eag-7cNZlm_eQsqt_p49-25">
+          <mxGeometry x="819" y="1236" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="G0uET5Q_VYbNLyBC4Jm4-12" value="1.转换ipynb文件成py文件&lt;br&gt;2.将新生成的pip安装存入requirements.txt&lt;br&gt;3.生成默认obs bucket，将py文件及requirements.txt上传&lt;br&gt;4.组装训练job的request body: 配置计算规格, 自定义镜像，自定义命令run_train.sh(py文件，code_url, data_url/local_path, output_local_path等为其参数) 等等；&lt;br&gt;5.调用训练任务API创建任务" style="shape=note;whiteSpace=wrap;html=1;size=14;verticalAlign=top;align=left;spacingTop=-6;" parent="1" vertex="1">
-          <mxGeometry x="670" y="480" width="220" height="160" as="geometry" />
+        <mxCell id="G0uET5Q_VYbNLyBC4Jm4-12" value="1.转换ipynb文件成py文件&lt;br&gt;2.将新生成的pip安装存入requirements.txt&lt;br&gt;3.生成默认obs bucket，将py文件及requirements.txt上传&lt;br&gt;4.组装训练job的request body: 配置计算规格, 自定义镜像，自定义命令run_train.sh(py文件，code_url, data_url/local_path, output_local_path等为其参数) 等等；&lt;br&gt;5.调用训练任务API创建任务" style="shape=note;whiteSpace=wrap;html=1;size=14;verticalAlign=top;align=left;spacingTop=-6;" parent="Eag-7cNZlm_eQsqt_p49-25" vertex="1">
+          <mxGeometry x="440" y="200" width="220" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="xEUIFX-Q6s_xrWAQr0Mz-5" value="在新的cell基于restore的session 进行模型验证/推理" style="shape=note;whiteSpace=wrap;html=1;size=14;verticalAlign=top;align=left;spacingTop=-6;" parent="1" vertex="1">
-          <mxGeometry x="285" y="850" width="150" height="50" as="geometry" />
+        <mxCell id="xEUIFX-Q6s_xrWAQr0Mz-5" value="在新的cell基于restore的session 进行模型验证/推理" style="shape=note;whiteSpace=wrap;html=1;size=14;verticalAlign=top;align=left;spacingTop=-6;" parent="Eag-7cNZlm_eQsqt_p49-25" vertex="1">
+          <mxGeometry x="55" y="570" width="150" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="xEUIFX-Q6s_xrWAQr0Mz-6" value="&lt;div&gt;1. 从data_url下载data到data_local_path&lt;/div&gt;&lt;div&gt;2. 从code_url下载code到指定路径&lt;/div&gt;&lt;div&gt;3. pip install -r requirement.txt&lt;/div&gt;&lt;div&gt;4. 执行训练code&lt;/div&gt;&lt;div&gt;5. 将output_local_path上传到默认obs的output目录&lt;br&gt;&lt;/div&gt;" style="shape=note;whiteSpace=wrap;html=1;size=14;verticalAlign=top;align=left;spacingTop=-6;" parent="1" vertex="1">
-          <mxGeometry x="1030" y="650" width="240" height="90" as="geometry" />
+        <mxCell id="xEUIFX-Q6s_xrWAQr0Mz-6" value="&lt;div&gt;1. 从data_url下载data到data_local_path&lt;/div&gt;&lt;div&gt;2. 从code_url下载code到指定路径&lt;/div&gt;&lt;div&gt;3. pip install -r requirement.txt&lt;/div&gt;&lt;div&gt;4. 执行训练code&lt;/div&gt;&lt;div&gt;5. 将output_local_path上传到默认obs的output目录&lt;br&gt;&lt;/div&gt;" style="shape=note;whiteSpace=wrap;html=1;size=14;verticalAlign=top;align=left;spacingTop=-6;" parent="Eag-7cNZlm_eQsqt_p49-25" vertex="1">
+          <mxGeometry x="800" y="370" width="240" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="xEUIFX-Q6s_xrWAQr0Mz-7" value="&lt;div&gt;7. 任务结束 将远程任务的output从obs下载到output_local_path&lt;/div&gt;&lt;div&gt;8. session restore&lt;br&gt;&lt;/div&gt;" style="shape=note;whiteSpace=wrap;html=1;size=14;verticalAlign=top;align=left;spacingTop=-6;" parent="1" vertex="1">
-          <mxGeometry x="670" y="780" width="200" height="50" as="geometry" />
+        <mxCell id="xEUIFX-Q6s_xrWAQr0Mz-7" value="&lt;div&gt;7. 任务结束 将远程任务的output从obs下载到output_local_path&lt;/div&gt;&lt;div&gt;8. session restore&lt;br&gt;&lt;/div&gt;" style="shape=note;whiteSpace=wrap;html=1;size=14;verticalAlign=top;align=left;spacingTop=-6;" parent="Eag-7cNZlm_eQsqt_p49-25" vertex="1">
+          <mxGeometry x="440" y="500" width="200" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="xEUIFX-Q6s_xrWAQr0Mz-8" value="6 持续watch训练任务直到等待终态，并持续向前台返回log（可对log进行过滤装饰）" style="shape=note;whiteSpace=wrap;html=1;size=14;verticalAlign=top;align=left;spacingTop=-6;" parent="1" vertex="1">
-          <mxGeometry x="670" y="670" width="200" height="50" as="geometry" />
+        <mxCell id="xEUIFX-Q6s_xrWAQr0Mz-8" value="6 持续watch训练任务直到等待终态，并持续向前台返回log（可对log进行过滤装饰）" style="shape=note;whiteSpace=wrap;html=1;size=14;verticalAlign=top;align=left;spacingTop=-6;" parent="Eag-7cNZlm_eQsqt_p49-25" vertex="1">
+          <mxGeometry x="440" y="390" width="200" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="xEUIFX-Q6s_xrWAQr0Mz-9" value="jupyterlab" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="370" y="290" width="40" height="20" as="geometry" />
+        <mxCell id="xEUIFX-Q6s_xrWAQr0Mz-9" value="jupyterlab" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="Eag-7cNZlm_eQsqt_p49-25" vertex="1">
+          <mxGeometry x="140" y="10" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="xEUIFX-Q6s_xrWAQr0Mz-11" value="kernel" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="560" y="290" width="40" height="20" as="geometry" />
+        <mxCell id="xEUIFX-Q6s_xrWAQr0Mz-11" value="kernel" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="Eag-7cNZlm_eQsqt_p49-25" vertex="1">
+          <mxGeometry x="330" y="10" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="xEUIFX-Q6s_xrWAQr0Mz-12" value="训练job" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="920" y="290" width="40" height="20" as="geometry" />
+        <mxCell id="xEUIFX-Q6s_xrWAQr0Mz-12" value="训练job" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="Eag-7cNZlm_eQsqt_p49-25" vertex="1">
+          <mxGeometry x="690" y="10" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="xEUIFX-Q6s_xrWAQr0Mz-17" value="也可以一次设定，以避免每次执行都弹出对话框" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" parent="1" vertex="1">
-          <mxGeometry x="256" y="538" width="147" height="104" as="geometry" />
+        <mxCell id="xEUIFX-Q6s_xrWAQr0Mz-17" value="也可以一次设定，以避免每次执行都弹出对话框" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" parent="Eag-7cNZlm_eQsqt_p49-25" vertex="1">
+          <mxGeometry x="26" y="258" width="147" height="104" as="geometry" />
         </mxCell>
-        <mxCell id="xEUIFX-Q6s_xrWAQr0Mz-20" value="" style="curved=1;endArrow=classic;html=1;entryX=0.531;entryY=0.087;entryDx=0;entryDy=0;entryPerimeter=0;fillColor=#f5f5f5;strokeColor=#666666;dashed=1;" parent="1" target="xEUIFX-Q6s_xrWAQr0Mz-17" edge="1">
+        <mxCell id="xEUIFX-Q6s_xrWAQr0Mz-20" value="" style="curved=1;endArrow=classic;html=1;entryX=0.531;entryY=0.087;entryDx=0;entryDy=0;entryPerimeter=0;fillColor=#f5f5f5;strokeColor=#666666;dashed=1;" parent="Eag-7cNZlm_eQsqt_p49-25" target="xEUIFX-Q6s_xrWAQr0Mz-17" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="326" y="472" as="sourcePoint" />
-            <mxPoint x="403" y="499" as="targetPoint" />
+            <mxPoint x="96" y="192" as="sourcePoint" />
+            <mxPoint x="173" y="219" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="317" y="509" />
-              <mxPoint x="353" y="499" />
+              <mxPoint x="87" y="229" />
+              <mxPoint x="123" y="219" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="xEUIFX-Q6s_xrWAQr0Mz-21" value="&lt;b&gt;comand：run_train.sh&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="1075" y="626" width="40" height="20" as="geometry" />
+        <mxCell id="xEUIFX-Q6s_xrWAQr0Mz-21" value="&lt;b&gt;comand：run_train.sh&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="Eag-7cNZlm_eQsqt_p49-25" vertex="1">
+          <mxGeometry x="845" y="346" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="Eag-7cNZlm_eQsqt_p49-21" value="kernel和训练job的挂载盘和mountPath保持一致，data、source code以及训练输出都存储在挂载盘" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
-          <mxGeometry x="710" y="1220" width="203" height="117" as="geometry" />
+        <mxCell id="Eag-7cNZlm_eQsqt_p49-21" value="kernel和训练job的挂载盘和mountPath保持一致，data、source code以及训练输出都存储在挂载盘" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="Eag-7cNZlm_eQsqt_p49-25">
+          <mxGeometry x="480" y="940" width="203" height="117" as="geometry" />
         </mxCell>
-        <mxCell id="Eag-7cNZlm_eQsqt_p49-24" value="" style="curved=1;endArrow=classic;html=1;fillColor=#f5f5f5;strokeColor=#666666;dashed=1;dashPattern=1 1;" edge="1" parent="1">
+        <mxCell id="Eag-7cNZlm_eQsqt_p49-24" value="" style="curved=1;endArrow=classic;html=1;fillColor=#f5f5f5;strokeColor=#666666;dashed=1;dashPattern=1 1;" edge="1" parent="Eag-7cNZlm_eQsqt_p49-25">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="719" y="1370" as="sourcePoint" />
-            <mxPoint x="769" y="1320" as="targetPoint" />
+            <mxPoint x="489" y="1090" as="sourcePoint" />
+            <mxPoint x="539" y="1040" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="769" y="1370" />
-              <mxPoint x="719" y="1320" />
+              <mxPoint x="539" y="1090" />
+              <mxPoint x="489" y="1040" />
             </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Eag-7cNZlm_eQsqt_p49-26" value="" style="endArrow=classic;html=1;" edge="1" parent="Eag-7cNZlm_eQsqt_p49-25">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="222" y="167" as="sourcePoint" />
+            <mxPoint x="398" y="196" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Eag-7cNZlm_eQsqt_p49-28" value="" style="endArrow=classic;html=1;" edge="1" parent="Eag-7cNZlm_eQsqt_p49-25">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="662" y="360" as="sourcePoint" />
+            <mxPoint x="762" y="369" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Eag-7cNZlm_eQsqt_p49-29" value="" style="endArrow=classic;html=1;exitX=0;exitY=0.992;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0;entryDx=193;entryDy=7;entryPerimeter=0;" edge="1" parent="Eag-7cNZlm_eQsqt_p49-25" source="G0uET5Q_VYbNLyBC4Jm4-15" target="xEUIFX-Q6s_xrWAQr0Mz-7">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="662" y="360" as="sourcePoint" />
+            <mxPoint x="762" y="369" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Eag-7cNZlm_eQsqt_p49-30" value="" style="endArrow=classic;html=1;entryX=0;entryY=0;entryDx=193;entryDy=7;entryPerimeter=0;" edge="1" parent="Eag-7cNZlm_eQsqt_p49-25">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="399" y="546" as="sourcePoint" />
+            <mxPoint x="220" y="559.96" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Eag-7cNZlm_eQsqt_p49-31" value="" style="endArrow=classic;html=1;entryX=1.005;entryY=0.78;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;fillColor=#f5f5f5;strokeColor=#666666;" edge="1" parent="1" target="xEUIFX-Q6s_xrWAQr0Mz-8">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="992" y="709" as="sourcePoint" />
+            <mxPoint x="992" y="649" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
