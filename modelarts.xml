@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-04-17T01:26:39.824Z" agent="5.0 (Windows)" etag="fsbnoEA2TtUs3rlJNz4l" version="12.9.14" type="github">
+<mxfile host="app.diagrams.net" modified="2020-04-17T01:30:03.670Z" agent="5.0 (Windows)" etag="E90GUXlP1eeEKIe4QTN1" version="12.9.14" type="github">
   <diagram id="rHfUqTyXawN6dN342Y3W" name="Page-1">
     <mxGraphModel dx="1422" dy="769" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
@@ -28,8 +28,8 @@
         <mxCell id="G0uET5Q_VYbNLyBC4Jm4-8" value="编辑notebook代码后 点击远程执行 弹出对话框 用户指定：&lt;br&gt;1. data url及对应的local path&lt;br&gt;2. 需要输出的local path&lt;br&gt;3. 计算资源规格" style="shape=note;whiteSpace=wrap;html=1;size=14;verticalAlign=top;align=left;spacingTop=-6;" parent="1" vertex="1">
           <mxGeometry x="290" y="360" width="140" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="G0uET5Q_VYbNLyBC4Jm4-12" value="1.转换ipynb文件成py文件&lt;br&gt;2.将新生成的pip安装存入requirements.txt&lt;br&gt;3.生成默认obs bucket，将py文件及requirements.txt上传&lt;br&gt;4.组装训练job的request body: 配置自定义镜像，code_url, data_url/local_path, output_local_path,计算规格等参数&lt;br&gt;5.调用训练任务API创建任务" style="shape=note;whiteSpace=wrap;html=1;size=14;verticalAlign=top;align=left;spacingTop=-6;" parent="1" vertex="1">
-          <mxGeometry x="670" y="480" width="200" height="160" as="geometry" />
+        <mxCell id="G0uET5Q_VYbNLyBC4Jm4-12" value="1.转换ipynb文件成py文件&lt;br&gt;2.将新生成的pip安装存入requirements.txt&lt;br&gt;3.生成默认obs bucket，将py文件及requirements.txt上传&lt;br&gt;4.组装训练job的request body: 配置计算规格, 自定义镜像，自定义命令run_train.sh(py文件，code_url, data_url/local_path, output_local_path等为其参数) 等等；&lt;br&gt;5.调用训练任务API创建任务" style="shape=note;whiteSpace=wrap;html=1;size=14;verticalAlign=top;align=left;spacingTop=-6;" parent="1" vertex="1">
+          <mxGeometry x="670" y="480" width="220" height="160" as="geometry" />
         </mxCell>
         <mxCell id="xEUIFX-Q6s_xrWAQr0Mz-5" value="在新的cell基于restore的session 进行模型验证/推理" style="shape=note;whiteSpace=wrap;html=1;size=14;verticalAlign=top;align=left;spacingTop=-6;" parent="1" vertex="1">
           <mxGeometry x="285" y="850" width="150" height="50" as="geometry" />
