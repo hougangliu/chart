@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-04-17T01:35:34.945Z" agent="5.0 (Windows)" etag="vPZ4Kl_wV-bXB0FOMdKI" version="12.9.14" type="github">
+<mxfile host="app.diagrams.net" modified="2020-04-17T01:40:25.776Z" agent="5.0 (Windows)" etag="4YfFM5_PRs8VP861zmZn" version="12.9.14" type="github">
   <diagram id="rHfUqTyXawN6dN342Y3W" name="Page-1">
     <mxGraphModel dx="1422" dy="769" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
@@ -131,6 +131,19 @@
         </mxCell>
         <mxCell id="xEUIFX-Q6s_xrWAQr0Mz-21" value="&lt;b&gt;comand：run_train.sh&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="1075" y="626" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Eag-7cNZlm_eQsqt_p49-21" value="kernel和训练job的挂载盘和mountPath保持一致，data、source code以及训练输出都存储在挂载盘" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="710" y="1220" width="203" height="117" as="geometry" />
+        </mxCell>
+        <mxCell id="Eag-7cNZlm_eQsqt_p49-24" value="" style="curved=1;endArrow=classic;html=1;fillColor=#f5f5f5;strokeColor=#666666;dashed=1;dashPattern=1 1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="719" y="1370" as="sourcePoint" />
+            <mxPoint x="769" y="1320" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="769" y="1370" />
+              <mxPoint x="719" y="1320" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
